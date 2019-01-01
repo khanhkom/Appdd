@@ -1,0 +1,150 @@
+{
+    "listfood": [
+      {
+        "id": "1",
+        "name": "Gạo nếp",
+        "image": "gaonep",
+        "calo":"344",
+        "pvd":"0",
+        "pvt":"8.6"
+      },
+      {
+        "id": "2",
+        "name": "Bánh mì",
+        "image": "banhmi",
+        "calo":"249",
+        "pvd":"0",
+        "pvt":"7.9"
+      },
+      {
+        "id": "3",
+        "name": "Rau muống",
+        "image": "raumuong",
+        "calo":"25",
+        "pvd":"0",
+        "pvt":"3.2"
+      },
+      
+      {
+        "id": "4",
+        "name": "Thịt ba chỉ",
+        "image": "thitbachi",
+        "calo":"260",
+        "pvd":"16.5",
+        "pvt":"0"
+      },
+      {
+        "id": "5",
+        "name": "Bún",
+        "image": "bun",
+        "calo":"110",
+        "pvd":"0",
+        "pvt":"1.7"
+      },
+      {
+        "id": "6",
+        "name": "Mỳ sợi",
+        "image": "mysoi",
+        "calo":"349",
+        "pvd":"0",
+        "pvt":"11"
+      },
+      {
+        "id": "7",
+        "name": "Khoai tây",
+        "image": "khoaitay",
+        "calo":"93",
+        "pvd":"0",
+        "pvt":"2"
+      },
+      {
+        "id": "8",
+        "name": "Bí đao",
+        "image": "bidao",
+        "calo":"12",
+        "pvd":"0",
+        "pvt":"0.6"
+      },
+      {
+        "id": "9",
+        "name": "Cà chua",
+        "image": "cachua",
+        "calo":"20",
+        "pvd":"0",
+        "pvt":"0.1"
+      },
+      {
+        "id": "10",
+        "name": "Cải bắp",
+        "image": "caibap",
+        "calo":"29",
+        "pvd":"0",
+        "pvt":"1.8"
+      },
+      {
+        "id": "11",
+        "name": "Chuối xanh",
+        "image": "chuoixanh",
+        "calo":"74",
+        "pvd":"0",
+        "pvt":"1.2"
+      },
+      {
+        "id": "12",
+        "name": "Thịt bò nạc",
+        "image": "thitbonac",
+        "calo":"127",
+        "pvd":"23.1",
+        "pvt":"0"
+      },
+      {
+        "id": "13",
+        "name": "Thịt chó",
+        "image": "thitcho",
+        "calo":"238",
+        "pvd":"16",
+        "pvt":"0"
+      },
+      {
+        "id": "14",
+        "name": "Thịt gà ta",
+        "image": "thitgata",
+        "calo":"199",
+        "pvd":"20.3",
+        "pvt":"0"
+      },
+      {
+        "id": "15",
+        "name": "Thịt lợn mỡ",
+        "image": "thitlonmo",
+        "calo":"394",
+        "pvd":"14.5",
+        "pvt":"0"
+      },
+      {
+        "id": "16",
+        "name": "Cá chép",
+        "image": "cachep",
+        "calo":"96",
+        "pvd":"16",
+        "pvt":"0"
+      },
+      {
+        "id": "17",
+        "name": "Cá rô đồng",
+        "image": "carodong",
+        "calo":"126",
+        "pvd":"19.1",
+        "pvt":"0"
+      },
+      {
+        "id": "18",
+        "name": "Trứng gà",
+        "image": "trungga",
+        "calo":"166",
+        "pvd":"14.8",
+        "pvt":"0"
+      }
+
+    ]
+}
